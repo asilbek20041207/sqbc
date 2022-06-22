@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('SFProDisplay/SFProDisplay-Bold.eot');
+    src: local('SF Pro Display Bold'), local('SFProDisplay-Bold'),
+        url('SFProDisplay/SFProDisplay-Bold.eot?#iefix')
+            format('embedded-opentype'),
+        url('SFProDisplay/SFProDisplay-Bold.woff2') format('woff2'),
+        url('SFProDisplay/SFProDisplay-Bold.woff') format('woff'),
+        url('SFProDisplay/SFProDisplay-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('SFProDisplay/SFProDisplay-Semibold.eot');
+    src: local('SF Pro Display Semibold'), local('SFProDisplay-Semibold'),
+        url('SFProDisplay/SFProDisplay-Semibold.eot?#iefix')
+            format('embedded-opentype'),
+        url('SFProDisplay/SFProDisplay-Semibold.woff2') format('woff2'),
+        url('SFProDisplay/SFProDisplay-Semibold.woff') format('woff'),
+        url('SFProDisplay/SFProDisplay-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('SFProDisplay/SFProDisplay-Medium.eot');
+    src: local('SF Pro Display Medium'), local('SFProDisplay-Medium'),
+        url('SFProDisplay/SFProDisplay-Medium.eot?#iefix')
+            format('embedded-opentype'),
+        url('SFProDisplay/SFProDisplay-Medium.woff2') format('woff2'),
+        url('SFProDisplay/SFProDisplay-Medium.woff') format('woff'),
+        url('SFProDisplay/SFProDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('SFProDisplay/SFProDisplay-Regular.eot');
+    src: local('SF Pro Display Regular'), local('SFProDisplay-Regular'),
+        url('SFProDisplay/SFProDisplay-Regular.eot?#iefix')
+            format('embedded-opentype'),
+        url('SFProDisplay/SFProDisplay-Regular.woff2') format('woff2'),
+        url('SFProDisplay/SFProDisplay-Regular.woff') format('woff'),
+        url('SFProDisplay/SFProDisplay-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
